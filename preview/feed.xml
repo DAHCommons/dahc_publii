@@ -1,12 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>DAHC: The Digital Arts &amp; Humanities Commons at UCSB</title>
-    <link href="file:///Users/raphaelradna/Documents/Publii/sites/dahc-the-digital-arts-and-humanities-commons-at-ucsb/preview/feed.xml" rel="self" />
-    <link href="file:///Users/raphaelradna/Documents/Publii/sites/dahc-the-digital-arts-and-humanities-commons-at-ucsb/preview" />
-    <updated>1969-12-31T16:00:00-08:00</updated>
+    <title>dahc_publii</title>
+    <link href="file:///Users/raphaelradna/Documents/Publii/sites/dahc_publii/preview/feed.xml" rel="self" />
+    <link href="file:///Users/raphaelradna/Documents/Publii/sites/dahc_publii/preview" />
+    <updated>2019-11-07T16:57:05-08:00</updated>
     <author>
         <name>Raphael Radna</name>
     </author>
-    <id>file:///Users/raphaelradna/Documents/Publii/sites/dahc-the-digital-arts-and-humanities-commons-at-ucsb/preview</id>
+    <id>file:///Users/raphaelradna/Documents/Publii/sites/dahc_publii/preview</id>
 
+    <entry>
+        <title>About</title>
+        <author>
+            <name>Raphael Radna</name>
+        </author>
+        <link href="file:///Users/raphaelradna/Documents/Publii/sites/dahc_publii/preview/about.html"/>
+        <id>file:///Users/raphaelradna/Documents/Publii/sites/dahc_publii/preview/about.html</id>
+
+        <updated>2019-11-07T15:21:17-08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="file:///Users/raphaelradna/Documents/Publii/sites/dahc_publii/preview/media/posts/1/01-Reception-in-DAHC.JPG" alt="" />
+                    The Digital Arts &amp; Humanities Commons (DAHC) is an open floor plan interdisciplinary co-working space for digital scholarship, pedagogy, and creative practice. The Commons vision is a vibrant, accessible space for open research and interdisciplinary collaboration, bringing together faculty, graduate students, and undergraduates. The DAHC&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="file:///Users/raphaelradna/Documents/Publii/sites/dahc_publii/preview/media/posts/1/01-Reception-in-DAHC.JPG" alt="" />
+                <p>The Digital Arts &amp; Humanities Commons (DAHC) is an open floor plan interdisciplinary co-working space for digital scholarship, pedagogy, and creative practice. The Commons vision is a vibrant, accessible space for open research and interdisciplinary collaboration, bringing together faculty, graduate students, and undergraduates.</p>
+<p>The DAHC is located on in Music 1410 (formerly the Arts Library) on the campus of UC Santa Barbara.</p>
+            ]]>
+        </content>
+    </entry>
 </feed>

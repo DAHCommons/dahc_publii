@@ -1,13 +1,29 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "DAHC: The Digital Arts &amp; Humanities Commons at UCSB",
+    "title": "dahc_publii",
     "description": "",
-    "home_page_url": "file:///Users/raphaelradna/Documents/Publii/sites/dahc-the-digital-arts-and-humanities-commons-at-ucsb/preview",
-    "feed_url": "file:///Users/raphaelradna/Documents/Publii/sites/dahc-the-digital-arts-and-humanities-commons-at-ucsb/preview/feed.json",
+    "home_page_url": "file:///Users/raphaelradna/Documents/Publii/sites/dahc_publii/preview",
+    "feed_url": "file:///Users/raphaelradna/Documents/Publii/sites/dahc_publii/preview/feed.json",
     "user_comment": "",
+    "icon": "file:///Users/raphaelradna/Documents/Publii/sites/dahc_publii/preview/media/website/dahc-title_19.png",
     "author": {
         "name": "Raphael Radna"
     },
     "items": [
+        {
+            "id": "file:///Users/raphaelradna/Documents/Publii/sites/dahc_publii/preview/about.html",
+            "url": "file:///Users/raphaelradna/Documents/Publii/sites/dahc_publii/preview/about.html",
+            "title": "About",
+            "summary": "The Digital Arts &amp; Humanities Commons (DAHC) is an open floor plan interdisciplinary co-working space for digital scholarship, pedagogy, and creative practice. The Commons vision is a vibrant, accessible space for open research and interdisciplinary collaboration, bringing together faculty, graduate students, and undergraduates. The DAHC&hellip;",
+            "content_html": "<p>The Digital Arts &amp; Humanities Commons (DAHC) is an open floor plan interdisciplinary co-working space for digital scholarship, pedagogy, and creative practice. The Commons vision is a vibrant, accessible space for open research and interdisciplinary collaboration, bringing together faculty, graduate students, and undergraduates.</p>\n<p>The DAHC is located on in Music 1410 (formerly the Arts Library) on the campus of UC Santa Barbara.</p>",
+            "image": "file:///Users/raphaelradna/Documents/Publii/sites/dahc_publii/preview/media/posts/1/01-Reception-in-DAHC.JPG",
+            "author": {
+                "name": "Raphael Radna"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-07T15:21:17-08:00",
+            "date_modified": "2019-11-07T15:21:17-08:00"
+        }
     ]
 }
