@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>dahc_publii</title>
-    <link href="file:///Users/raphaelradna/Documents/Publii/sites/dahc_publii/preview/feed.xml" rel="self" />
-    <link href="file:///Users/raphaelradna/Documents/Publii/sites/dahc_publii/preview" />
-    <updated>2019-11-08T00:02:00-08:00</updated>
+    <link href="https://dahcommons.github.io/dahc_web2/feed.xml" rel="self" />
+    <link href="https://dahcommons.github.io/dahc_web2" />
+    <updated>2019-11-08T00:02:48-08:00</updated>
     <author>
         <name>Raphael Radna</name>
     </author>
-    <id>file:///Users/raphaelradna/Documents/Publii/sites/dahc_publii/preview</id>
+    <id>https://dahcommons.github.io/dahc_web2</id>
 
     <entry>
         <title>Projects</title>
         <author>
             <name>Raphael Radna</name>
         </author>
-        <link href="file:///Users/raphaelradna/Documents/Publii/sites/dahc_publii/preview/projects.html"/>
-        <id>file:///Users/raphaelradna/Documents/Publii/sites/dahc_publii/preview/projects.html</id>
+        <link href="https://dahcommons.github.io/dahc_web2/projects.html"/>
+        <id>https://dahcommons.github.io/dahc_web2/projects.html</id>
 
         <updated>2019-11-07T23:59:06-08:00</updated>
             <summary>
@@ -39,8 +39,8 @@
         <author>
             <name>Raphael Radna</name>
         </author>
-        <link href="file:///Users/raphaelradna/Documents/Publii/sites/dahc_publii/preview/news.html"/>
-        <id>file:///Users/raphaelradna/Documents/Publii/sites/dahc_publii/preview/news.html</id>
+        <link href="https://dahcommons.github.io/dahc_web2/news.html"/>
+        <id>https://dahcommons.github.io/dahc_web2/news.html</id>
 
         <updated>2019-11-07T23:56:07-08:00</updated>
             <summary>
@@ -171,8 +171,8 @@
         <author>
             <name>Raphael Radna</name>
         </author>
-        <link href="file:///Users/raphaelradna/Documents/Publii/sites/dahc_publii/preview/groups.html"/>
-        <id>file:///Users/raphaelradna/Documents/Publii/sites/dahc_publii/preview/groups.html</id>
+        <link href="https://dahcommons.github.io/dahc_web2/groups.html"/>
+        <id>https://dahcommons.github.io/dahc_web2/groups.html</id>
 
         <updated>2019-11-08T00:01:57-08:00</updated>
             <summary>
@@ -207,8 +207,8 @@
         <author>
             <name>Raphael Radna</name>
         </author>
-        <link href="file:///Users/raphaelradna/Documents/Publii/sites/dahc_publii/preview/homepage.html"/>
-        <id>file:///Users/raphaelradna/Documents/Publii/sites/dahc_publii/preview/homepage.html</id>
+        <link href="https://dahcommons.github.io/dahc_web2/homepage.html"/>
+        <id>https://dahcommons.github.io/dahc_web2/homepage.html</id>
 
         <updated>2019-11-07T23:52:05-08:00</updated>
             <summary>
@@ -300,8 +300,8 @@
         <author>
             <name>Raphael Radna</name>
         </author>
-        <link href="file:///Users/raphaelradna/Documents/Publii/sites/dahc_publii/preview/calendar.html"/>
-        <id>file:///Users/raphaelradna/Documents/Publii/sites/dahc_publii/preview/calendar.html</id>
+        <link href="https://dahcommons.github.io/dahc_web2/calendar.html"/>
+        <id>https://dahcommons.github.io/dahc_web2/calendar.html</id>
 
         <updated>2019-11-07T23:45:37-08:00</updated>
             <summary>
@@ -312,7 +312,7 @@
         <content type="html">
             <![CDATA[
                 <p>The DAHC calendar announces upcoming events and tracks space bookings for class meetings or special activities. To add an event announcement to the calendar or book a space, please fill out our <a href="https://goo.gl/forms/GZkJN3btrW5IJq612">Event Proposal Form</a>.</p>
-<p>For details about the space, see our <a href="file:///Users/raphaelradna/Documents/Publii/sites/dahc_publii/preview/homepage.html">Equipment &amp; Facilities</a> page, or email us: <a href="mailto:dahc@hfa.ucsb.edu">dahc@hfa.ucsb.edu</a> </p>
+<p>For details about the space, see our <a href="https://dahcommons.github.io/dahc_web2/homepage.html">Equipment &amp; Facilities</a> page, or email us: <a href="mailto:dahc@hfa.ucsb.edu">dahc@hfa.ucsb.edu</a> </p>
 <iframe width="590" height="600" style="border-width: 0;" src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTz=0&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=ucsb.edu_5pls3nftcl4brgj5857262bqks%40group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FLos_Angeles" scrolling="no" frameborder="0"></iframe>
             ]]>
         </content>
@@ -322,19 +322,19 @@
         <author>
             <name>Raphael Radna</name>
         </author>
-        <link href="file:///Users/raphaelradna/Documents/Publii/sites/dahc_publii/preview/about.html"/>
-        <id>file:///Users/raphaelradna/Documents/Publii/sites/dahc_publii/preview/about.html</id>
+        <link href="https://dahcommons.github.io/dahc_web2/about.html"/>
+        <id>https://dahcommons.github.io/dahc_web2/about.html</id>
 
         <updated>2019-11-07T23:45:16-08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="file:///Users/raphaelradna/Documents/Publii/sites/dahc_publii/preview/media/posts/1/01-Reception-in-DAHC.JPG" alt="" />
+                        <img src="https://dahcommons.github.io/dahc_web2/media/posts/1/01-Reception-in-DAHC.JPG" alt="" />
                     The Digital Arts &amp; Humanities Commons (DAHC) is an open floor plan interdisciplinary co-working space for digital scholarship, pedagogy, and creative practice. The Commons vision is a vibrant, accessible space for open research and interdisciplinary collaboration, bringing together faculty, graduate students, and undergraduates. The DAHC&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="file:///Users/raphaelradna/Documents/Publii/sites/dahc_publii/preview/media/posts/1/01-Reception-in-DAHC.JPG" alt="" />
+                    <img src="https://dahcommons.github.io/dahc_web2/media/posts/1/01-Reception-in-DAHC.JPG" alt="" />
                 <p>The Digital Arts &amp; Humanities Commons (DAHC) is an open floor plan interdisciplinary co-working space for digital scholarship, pedagogy, and creative practice. The Commons vision is a vibrant, accessible space for open research and interdisciplinary collaboration, bringing together faculty, graduate students, and undergraduates.</p>
 <p>The DAHC is located in Music 1410 (formerly the Arts Library) on the campus of UC Santa Barbara.</p>
             ]]>
