@@ -3,7 +3,7 @@
     <title>dahc_publii2</title>
     <link href="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/feed.xml" rel="self" />
     <link href="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview" />
-    <updated>2020-02-24T11:38:40-08:00</updated>
+    <updated>2020-03-09T12:19:58-07:00</updated>
     <author>
         <name>Raphael Radna</name>
     </author>
@@ -17,21 +17,23 @@
         <link href="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/digital-discourses-live-coding-audio-2.html"/>
         <id>file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/digital-discourses-live-coding-audio-2.html</id>
 
-        <updated>2020-03-06T15:00:00-08:00</updated>
+        <updated>2020-03-09T11:43:53-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/media/posts/10/WEBSITE_MarkEvanstein_Header2.png" alt="" />
-                     SCAMP: March 6th, 2020 - 3:00pm Digital Arts and Humanitites Commons Music 1410 Stuff and things and stuff and things
+                        <img src="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/media/posts/10/HEADER_MarkEvanstein.png" alt="" />
+                     SCAMP: a new framework for composing music in Python March 6th, 2020 - 3:00pm Digital Arts and Humanitites Commons Music 1410 "This presentation introduces SCAMP, a framework for computer-assisted music composition in Python designed to bridge the gap between synthesis-based frameworks, such as Max/MSP and SuperCollider, and notation-based&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/media/posts/10/WEBSITE_MarkEvanstein_Header2.png" alt="" />
+                    <img src="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/media/posts/10/HEADER_MarkEvanstein.png" alt="" />
                 <h3 id="mcetoc_1dq2op3j80" class="align-center"> </h3>
-<h4 id="mcetoc_1dq2m0ns10" class="align-center"><em>SCAMP: </em></h4>
-<hr><address class="align-center"> </address><address class="align-center">March 6th, 2020 - 3:00pm<br>Digital Arts and Humanitites Commons Music 1410</address>
-<p> </p>
-<p>Stuff and things and stuff and things</p>
+<h4 id="mcetoc_1dq2m0ns10" class="align-center"><em>SCAMP: a new framework for composing music in Python </em></h4>
+<hr><address class="align-center"> </address><address class="align-center">March 6th, 2020 - 3:00pm<br>Digital Arts and Humanitites Commons Music 1410</address><address class="align-center"> </address><address class="align-center">
+<p class="align-left" dir="ltr">"This presentation introduces SCAMP, a  framework for computer-assisted music composition in Python designed to bridge the gap between synthesis-based frameworks, such as Max/MSP and SuperCollider, and notation-based frameworks, such as abjad and OpenMusic. SCAMP allows the composer to engage with a ensemble of virtual acoustic and electronic instruments, quickly auditioning and iterating over musical ideas based on the sonic result. If desired, the composer can then flexibly quantize and export the music in western notation.</p>
+<p class="align-left" dir="ltr">SCAMP provides varied and highly extensible utilities for playback, features easy playback and notation of microtonality and glissandi, has a flexible clock system capable of coordinating multiple streams of music following separate tempo curves, and can export notation in the form of either MusicXML or Lilypond (via the abjad library). The goal is to provide the composer with a streamlined workflow while imposing as little as possible from an aesthetic standpoint."</p>
+</address>
+<p><img class="post__image" src="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/media/posts/10/DD_Marc-Evanstein_800.png" alt="" width="800" height="1035"> </p>
             ]]>
         </content>
     </entry>
@@ -43,7 +45,7 @@
         <link href="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/photo-gallery.html"/>
         <id>file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/photo-gallery.html</id>
 
-        <updated>2020-02-19T12:20:41-08:00</updated>
+        <updated>2020-03-09T12:02:04-07:00</updated>
             <summary>
                 <![CDATA[
                      The Future Tripping symposium kicks off with a Play Workshop Susana Ruiz theorizes serious play! Alenda Chang introduces a panel featuring Danielle Christianson, Summer Gray, and Marcos Novak Liz Losh gives the Future Tripping keynote: “That Was the News That Wasn’t: Fake News and&hellip;
@@ -51,15 +53,15 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p><img src="http://dahc.ucsb.edu/assets/images/gallery/FT04-play-workshop.jpg" alt="Play Workshop"></p>
+                <p><img class="post__image" src="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/media/posts/36/IMG_3504.jpg" alt="" width="9152" height="2332"></p>
 <p>The Future Tripping symposium kicks off with a Play Workshop</p>
-<p><img src="http://dahc.ucsb.edu/assets/images/gallery/FT03-ruiz.jpg" alt="Susana Ruiz"></p>
+<p><img class="post__image" src="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/media/posts/36/IMG_3502.jpg" alt="" width="3264" height="2448"></p>
 <p>Susana Ruiz theorizes serious play!</p>
-<p><img src="http://dahc.ucsb.edu/assets/images/gallery/FT01-christianson-gray-novak.jpg" alt="Panel Discussion"></p>
+<p><img class="post__image" src="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/media/posts/36/IMG_3511.jpg" alt="" width="6656" height="2332"></p>
 <p>Alenda Chang introduces a panel featuring Danielle Christianson, Summer Gray, and Marcos Novak</p>
-<p><img src="http://dahc.ucsb.edu/assets/images/gallery/FT02-losh.jpg" alt="Liz Losh"></p>
+<p><img class="post__image" src="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/media/posts/36/IMG_3544-1.jpg" alt="" width="3264" height="2448"></p>
 <p>Liz Losh gives the Future Tripping keynote: “That Was the News That Wasn’t: Fake News and the Culture of Simulation”</p>
-<p><img src="http://dahc.ucsb.edu/assets/images/gallery/FT05-thinking-walking.JPG" alt="Species Futures"></p>
+<p><img class="post__image" src="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/media/posts/36/IMG_2966.JPG" alt="" width="3264" height="2448"></p>
 <p>Future Tripping moves outdoors during the “Thinking/Walking” session</p>
 <hr>
 <p><img src="http://dahc.ucsb.edu/assets/images/gallery/C01-Happy-Hacking.jpg" alt="Happy Hacking"></p>
@@ -75,35 +77,35 @@
 <hr>
 <p><img src="http://dahc.ucsb.edu/assets/images/gallery/B01-Team-Photo.jpg" alt="Team Photo"></p>
 <p>Data Science at UCSB hosts a <a href="https://djangogirls.org/">Django Girls</a> workshop in the DAHC.</p>
-<p><img src="http://dahc.ucsb.edu/assets/images/gallery/B02-Workshop.jpg" alt="Reception in DAHC"></p>
+<p><img class="post__image" src="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/media/posts/36/B02-Workshop.jpg" alt="" width="2736" height="1824"></p>
 <p>A show of hands for Badass Django Ladies!</p>
-<p><img src="http://dahc.ucsb.edu/assets/images/gallery/B03-Breakout-Session.jpg" alt="Coding with Mentors"></p>
+<p><img class="post__image" src="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/media/posts/36/B03-Breakout-Session.jpg" alt="" width="2736" height="1824"></p>
 <p>During breakout sessions, participants code with the support of mentors from the Data Science club.</p>
 <hr>
-<p><img src="http://dahc.ucsb.edu/assets/images/groups-sb_hacks-log-team-2--small.jpg" alt="SB Hacks Meeting"></p>
+<p><img class="post__image" src="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/media/posts/36/groups-sb_hacks-log-team-2-small.jpg" alt="" width="800" height="509"></p>
 <p>An SB Hacks student group meeting in the DAHC. With the hackathon just two months away, SB Hacks is starting to hold more and more team meetings to make sure that everyone is making progress.</p>
 <hr>
-<p><img src="http://dahc.ucsb.edu/assets/images/gallery/02-Reception-in-DAHC.JPG" alt="Reception in DAHC"></p>
+<p><img class="post__image" src="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/media/posts/36/02-Reception-in-DAHC.jpeg" alt="" width="4020" height="2656"></p>
 <p>The very first reception in the Digital Arts &amp; Humanities Commons!</p>
-<p><img src="http://dahc.ucsb.edu/assets/images/gallery/01-Reception-in-DAHC.JPG" alt="Reception in DAHC"></p>
+<p><img class="post__image" src="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/media/posts/36/01-Reception-in-DAHC.jpeg" alt="" width="2976" height="2232"></p>
 <hr>
-<p><img src="http://dahc.ucsb.edu/assets/images/gallery/A01-Douglass.JPG" alt="Prof. Douglass"></p>
+<p><img class="post__image" src="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/media/posts/36/A01-Douglass.jpeg" alt="" width="3270" height="2386"></p>
 <p>Welcoming participants to the Commons</p>
-<p><img src="http://dahc.ucsb.edu/assets/images/gallery/A02-Griffin.JPG" alt="Prof. Griffin"></p>
+<p><img class="post__image" src="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/media/posts/36/A02-Griffin.jpeg" alt="" width="3211" height="2509"></p>
 <p>Professor Andrew Griffin gives the vision of the Maker Lab</p>
-<p><img src="http://dahc.ucsb.edu/assets/images/gallery/A03-Novak.JPG" alt="Prof. Novak"></p>
+<p><img class="post__image" src="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/media/posts/36/A03-Novak.jpeg" alt="" width="4010" height="2513"></p>
 <p>Professor Marcos Novak discusses virtual worlds research on campus</p>
-<p><img src="http://dahc.ucsb.edu/assets/images/gallery/A04-Wireframe.JPG" alt="Wireframe Graduate Students"></p>
+<p><img class="post__image" src="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/media/posts/36/A04-Wireframe.jpeg" alt="" width="2756" height="2737"></p>
 <p>Participants in Leila Sakr’s Fem-Tech Lab</p>
 <hr>
 <p>A gathering for the ribbon-cutting event launching the new Maker Lab in the DAHC.</p>
-<p><img src="http://dahc.ucsb.edu/assets/images/gallery/03-Fumerton-Welcome.JPG" alt="Prof. Fumerton Inaugurates the MakerLab"></p>
+<p><img class="post__image" src="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/media/posts/36/03-Fumerton-Welcome.jpeg" alt="" width="2976" height="2232"></p>
 <p>Professor Patricia Fummerton speaking at the Maker Lab inaugural.</p>
-<p><img src="http://dahc.ucsb.edu/assets/images/gallery/04-Yang-Print.JPG" alt="Yang Prints on Mad Madge"></p>
+<p><img class="post__image" src="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/media/posts/36/04-Yang-Print.jpeg" alt="" width="2976" height="2232"></p>
 <p>Dilling Yang looks inside “Madge” – a 19th century Albion printing press.</p>
-<p><img src="http://dahc.ucsb.edu/assets/images/gallery/05-Majewski-Print.JPG" alt="Dean Majewski's Print"></p>
+<p><img class="post__image" src="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/media/posts/36/05-Majewski-Print.jpeg" alt="" width="2232" height="2976"></p>
 <p>Dean John Majewski shows off his commemorative print fresh from the printing press.</p>
-<p><img src="http://dahc.ucsb.edu/assets/images/gallery/06-Paddy-Kristy-Madge.JPG" alt="Mad Madge"></p>
+<p><img class="post__image" src="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/media/posts/36/06-Paddy-Kristy-Madge.jpeg" alt="" width="720" height="900"></p>
 <p>Mad Madge herself, with Professor Patricia Fumerton and Kristy McCants</p>
             ]]>
         </content>
@@ -143,7 +145,7 @@
         <link href="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/ucsb-data-science-club.html"/>
         <id>file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/ucsb-data-science-club.html</id>
 
-        <updated>2020-02-23T18:59:25-08:00</updated>
+        <updated>2020-03-09T12:10:56-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/media/posts/18/HEADER_datascience.png" alt="" />
@@ -161,7 +163,7 @@
 </dl>
 <p>More details can be found at:</p>
 <p><a href="https://djangogirls.org/santa_barbara/">https://djangogirls.org/santa_barbara/</a></p>
-<p><img src="http://dahc.ucsb.edu/assets/images/groups-data_science_club-workshop.png" alt="Django Girls homepage image of workshop crowd coding"></p>
+<p><img class="post__image" src="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/media/posts/18/groups-data_science_club-workshop.png" alt="" width="1500" height="716"></p>
             ]]>
         </content>
     </entry>
@@ -173,7 +175,7 @@
         <link href="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/sb-hacks.html"/>
         <id>file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/sb-hacks.html</id>
 
-        <updated>2020-02-23T18:56:10-08:00</updated>
+        <updated>2020-03-09T12:10:40-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/media/posts/17/HEADER_sbhacks.png" alt="" />
@@ -186,8 +188,8 @@
                 <p>SB Hacks is a nonprofit, student-run group which organizes the annual weekend-long, 500 person hackathon at UCSB, also called SB Hacks. Our next hackathon, SB Hacks IV, will be hosted on January 19-21, 2018 on campus.</p>
 <p>Our mission is to build a tech and entrepreneurial student community on campus by bridging the gap between our theoretical curriculum to the real world. By hosting a hackathon, student participants are able to utilize and apply their coding skills and innovative mindsets to budding projects or to creatively come up with solutions to problems facing our community. Our purpose is to provide participants with the space, support, and resources to collaborate with each other, to gain mentorship, and to work on their projects‌. We are using DAHC as a space to host our organizer meetings where we plan and prepare to make our next hackathon, SB Hacks IV, the best one yet.</p>
 <p>Follow us on <a href="https://www.facebook.com/ucsbhacks/">Facebook</a> or visit our <a href="http://www.sbhacks.com/">website</a>.</p>
-<p><img src="http://dahc.ucsb.edu/assets/images/groups-sb_hacks-2017-Spring.jpeg" alt="Our Spring 2017 hackathon organizers"></p>
-<p><img src="http://dahc.ucsb.edu/assets/images/groups-sb_hacks-log-team-2--small.jpg" alt="SB Hacks Meeting"></p>
+<p><img class="post__image" src="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/media/posts/17/groups-sb_hacks-2017-Spring.jpeg" alt="" width="1000" height="621"></p>
+<p><img class="post__image" src="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/media/posts/17/groups-sb_hacks-log-team-2-small-1.jpg" alt="" width="800" height="509"></p>
             ]]>
         </content>
     </entry>
@@ -199,7 +201,7 @@
         <link href="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/wireframe.html"/>
         <id>file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/wireframe.html</id>
 
-        <updated>2020-02-23T18:52:05-08:00</updated>
+        <updated>2020-03-09T12:10:05-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/media/posts/16/HEADER_wireframe" alt="" />
@@ -209,7 +211,7 @@
         <content type="html">
             <![CDATA[
                     <img src="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/media/posts/16/HEADER_wireframe" alt="" />
-                <p><img src="http://dahc.ucsb.edu/assets/images/groups-wireframe-thank-you-for-playing.JPG" alt="Thank You for Playing"></p>
+                <p><img class="post__image" src="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/media/posts/16/groups-wireframe-thank-you-for-playing.jpeg" alt="" width="4015" height="2409"></p>
 <p><strong><a href="https://wireframeucsb.wordpress.com/">Wireframe Studio</a></strong> was established to support collaborative and cutting-edge research and teaching in new media, with an emphasis on global human rights, social justice, and environmental concerns.</p>
 <p>From the outset, we have made UC Santa Barbara students a priority through innovative coursework, design opportunities, and stimulating public programming. Located adjacent to the emerging Digital Arts and Humanities Commons, the studio provides a space for production and critical engagement across media including games, data visualization, installation art, virtual/augmented reality, projection mapping, performance and installation, livestreaming, 3D modeling, mobile apps, and social media. In the future, we hope to expand our programs to provide the latest technologies for both our students in the classroom and interdisciplinary faculty/student research clusters. Through graduate and undergraduate courses; symposia, workshops, and other events; and team-based project development, we envision staging and sharing complex work in environmental and global media, and sparking dialogue among cultural producers, scholars, and activists around the legacies and continued importance of digital media practices.</p>
 <p>Follow us on <a href="https://www.instagram.com/wireframeucsb/">Instagram</a> and <a href="https://www.facebook.com/wireframeucsb/">Facebook</a>, or visit our <a href="https://wireframeucsb.wordpress.com/">website</a>.</p>
@@ -248,7 +250,7 @@
         <link href="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/scriptworlds.html"/>
         <id>file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/scriptworlds.html</id>
 
-        <updated>2020-02-23T19:06:50-08:00</updated>
+        <updated>2020-03-09T12:09:46-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/media/posts/14/HEADER_scriptworlds.png" alt="" />
@@ -293,7 +295,7 @@
         <link href="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/rem-lab.html"/>
         <id>file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/rem-lab.html</id>
 
-        <updated>2020-02-23T18:57:16-08:00</updated>
+        <updated>2020-03-09T12:09:17-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/media/posts/13/HEADER_rem.png" alt="" />
@@ -321,7 +323,7 @@ The Lab Group is composed of faculty, graduate students, visiting researchers, a
 <li><strong>Maharshi Vyas</strong>, UCSB graduate student (Religious Studies), specializing in South Asian Religions (under W. Ellison)</li>
 <li><strong>Jed Forman</strong>, UCSB graduate student (Religious Studies), specializing in Tibetan Buddhism (under J. Cabezon), India fieldwork coordinator</li>
 </ul>
-<p> <img class="align-center" src="http://dahc.ucsb.edu/assets/images/groups-rem-team.png" alt="REM Lab Team" width="528" height="407"></p>
+<p> <img class="post__image" src="file:///Users/kramerelwell/Documents/Publii/sites/dahc_publii2/preview/media/posts/13/groups-rem-team.png" alt="" width="422" height="325"></p>
 <p> </p>
             ]]>
         </content>
